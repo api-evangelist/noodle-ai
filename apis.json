@@ -1,0 +1,53 @@
+{
+    "name": "Noodle.ai",
+    "description": "Noodle.ai offers <em>a suite of interconnected AI Applications<\/em> powered by learning algorithms to help enterprise executives out-calculate their competition, anticipate customer actions, and create rapid, measurable economic value.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28737-noodle-ai.jpg",
+    "tags": [
+        "api not found",
+        "artificial intelligence",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/noodle-ai\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Noodle.ai",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28737-noodle-ai.jpg",
+            "humanURL": "https:\/\/noodle.ai",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/noodle-ai-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/noodle.ai\/blog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/noodle-analytics-inc-noodle-ai"
+        },
+        {
+            "type": "Email",
+            "url": "hello@noodle.ai"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/NoodleAI"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/noodle.ai"
+        }
+    ]
+}
